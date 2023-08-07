@@ -83,7 +83,7 @@ author:
   name             : "Taylor W. Uselman"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate in Biomedical Sciences (concentration in Neuroscience/Neuropathology) and concurrent M.B.A. student"
-  location         :  <a href="https://www.google.com/maps/place/UNM+Department+of+Pathology/@35.089682,-106.6204379,17z/data=!3m1!4b1!4m6!3m5!1s0x87220b5b4fe4814f:0xe836bf9d2598ab7d!8m2!3d35.089682!4d-106.617863!16s%2Fg%2F1th0ytlc?entry=ttu">UNM-HSC\nDept. Pathology</a>
+  location         :  "https://www.google.com/maps/place/UNM+Department+of+Pathology/@35.089682,-106.6204379,17z/data=!3m1!4b1!4m6!3m5!1s0x87220b5b4fe4814f:0xe836bf9d2598ab7d!8m2!3d35.089682!4d-106.617863!16s%2Fg%2F1th0ytlc?entry=ttu"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Uselman+TW&cauthor_id=35253280"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
